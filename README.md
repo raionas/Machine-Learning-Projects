@@ -14,11 +14,3 @@ Tools: R, WEKA
 Trend Analyses for Blockchain Technology Innovations using Data Analytics: Discover the trends and pattern on temporal data on the adoption of Blockchain Technology. A contribution for this project is a dataset composed of Blockchain related tweets that were scraped from Twitter and applied data visualisation techniques such as ggplot, time-series, and geolocation methods.
 
 Tools: R, Tableau
-
-
-# Micro Projects
-
-Second-hand Car Price Prediction: Employing supervised learning techniques for a regression problem in predicting the car value against the actual value of a second-hand vehicle. Investigating which input variables like model, make, mileage, cruise control, cylinders, etc. will drive the price of the car.
-
-
-Tool: R
